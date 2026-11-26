@@ -1,0 +1,7 @@
+#!/bin/bash
+
+sudo useradd suhas
+sudo useradd lix
+sudo useradd rahul
+
+echo "Users created successfully"
